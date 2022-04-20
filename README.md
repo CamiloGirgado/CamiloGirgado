@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CamiloGirgado
-- 👀 I’m interested in anything engineering.Mostly processes, software, and additive manufacturing.
-- 🌱 I’m currently learning Python via 'Automate the Boring Stuff' by Al Sweigart
+- 👀 I’m interested in anything engineering.Mostly manufacturing processes, software development, and 3D printing
+- 🌱 I’m currently learning Python via 'Automate the Boring Stuff' by Al Sweigart and freeCodeCamp
 - 💞️ I’m looking to collaborate on start-up projects or just getting to know people who also like creating things from nothing!
 - 📫 How to reach me: LinkedIn is a great place to find me. I'm likely the only Camilo Girgado on there.
 
