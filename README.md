@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CamiloGirgado
-- 💞️ I’m looking to collaborate on start-up projects or just getting to know people who also like creating things from nothing!
+- I’m looking to collaborate on start-up projects or just getting to know people who also like creating things from nothing!
 - 📫 How to reach me: LinkedIn is a great place to find me. I'm likely the only Camilo Girgado on there.
 
 <!---
